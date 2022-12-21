@@ -23,7 +23,7 @@ master = Tk()
 
 my_tree = ttk.Treeview(master)
 master.title('Ramon Antonio') # Nome do software
-master.geometry('1200x650+0+0')
+master.geometry('1170x650+0+0')
 master.config(bg= co9) # cor do background
 #master.iconphoto(False, PhotoImage(file='')) # icone do software
 
